@@ -10,5 +10,7 @@ Also drag and drop could take into account the whole area of the card and not ju
 
 ## Which parts were AI-assisted, and how you prompted/used it
 For speed and not having to deal with remembering the Unity intricacies myself, ChatGPT was used for the drag and drop code with this prompt:
+
 > I have several unity Image which I want to drag and drop onto eachother (game is a solitaire and I'm moving cards). Please provide drag and drop code. I want the dragged card to follow the mouse while dragging
+
 I already knew the kind of code it would generate and I just tweaked it for my own necessities
