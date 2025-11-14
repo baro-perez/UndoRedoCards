@@ -1,3 +1,6 @@
+Test assigment for a recruitment process
+For candidate assesment only. See LICENSE file for more info
+
 ## What you built
 GameManager instantiates the stacks from data from a ScriptableObject
 Each card has a suit and number with different sprites
